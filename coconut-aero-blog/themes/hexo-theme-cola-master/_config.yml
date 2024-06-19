@@ -3,18 +3,21 @@ title: Ciallo~
 author_name: Coconut-Aero
 
 # 左侧栏标签，只能两个
-tag1: 中二
-tag2: 宅
+tag1: 可爱
+tag2: 认真
 
 # 左侧栏Github连接
-github_url: https://github.com/Aizener
+github_url: https://github.com/Coconut-Aero
 
 # 左侧栏座右铭，分两句
-motto_prev: “花有重开日，人无再少年”
-motto_last: “一个简单普通的男孩”
+motto_prev: “Turn Hands up. Time to Surrender!”
+motto_last: “Take Over—Lyn”
 
 # 小站部署日期（运营时间）
-public_date: 2022-02-16
+public_date: 2024-6-19
+
+favicon: /favicon.ico
+
 
 # 左侧栏菜单
 menu:
@@ -69,4 +72,4 @@ gray: none
 log_text_num: 1000
 
 # 版本号
-version: 1.0.2
+version: 0.0.1 Test

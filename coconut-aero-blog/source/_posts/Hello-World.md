@@ -12,7 +12,7 @@ tags:
 [![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)](https://github.com/Coconut-Aero)
 
 <h1 align="center">
-  <img src="https://s21.ax1x.com/2024/05/01/pkkuwQg.png" alt="FrontStar" width="400">
+  <img src="https://s21.ax1x.com/2024/05/01/pkkuwQg.png" alt="FrontStar" width="800">
   <br>A part of  Project / FrontStar<br>
 
 </h1>
