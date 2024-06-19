@@ -103,5 +103,5 @@ theme: hexo-theme-cola-master
 deploy:
   type: git
   repo: https://github.com/Coconut-Aero/Coconut-Blog-Backend.git
-  branch: main
+  branch: master
 
