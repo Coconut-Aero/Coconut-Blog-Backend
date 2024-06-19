@@ -8,12 +8,14 @@ tags:
 
 ------------------------------------------------------------------------
 
-[![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/JavaLearn)](https://github.com/Coconut-Aero/Coconut-Page-Backend/commits/master)
+[![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Blog-Backend)](https://github.com/Coconut-Aero/Coconut-Blog-Backend/commits/master)
 [![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)](https://github.com/Coconut-Aero)
 
-[![Banner](https://s21.ax1x.com/2024/05/01/pkkuwQg.png)](https://imgse.com/i/pkkuwQg)
+<h1 align="center">
+  <img src="https://s21.ax1x.com/2024/05/01/pkkuwQg.png" alt="FrontStar" width="400">
+  <br>A part of  Project / FrontStar<br>
 
-A part of  **Project / FrontStar**
+</h1>
 
-Welcome to my hexo blog deployed on Github-Pages. 
-Since now, I will publish some article on it. Thank you for reading!
+欢迎你来到这里！这里是Coconut Aero部署于Github Pages的 Hexo Blog！
+
